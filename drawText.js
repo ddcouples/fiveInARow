@@ -5,6 +5,6 @@ function drawText(){
     cancxt.shadowBlur = 15;//阴影
     cancxt.shadowColor = "#000";
     cancxt.font = "90px 微软雅黑";
-    cancxt.fillText("五子棋盘 ", 30, 250);
+    cancxt.fillText("慕课五子棋盘 ", 30, 250);
 	cancxt.restore();
 	}
